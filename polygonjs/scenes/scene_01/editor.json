@@ -1,0 +1,549 @@
+{
+	"multiple_panel": {
+		"split_ratio": 0.6156250238418579,
+		"split_panel0": {
+			"split_ratio": 0.5730303215258049,
+			"split_panel0": {
+				"panelTypes": ["viewer"],
+				"currentPanelIndex": 0,
+				"panel_data": {
+					"camera": "/perspectiveCamera1",
+					"isViewerInitLayoutData": true,
+					"linkIndex": 1,
+					"overlayedNetwork": {
+						"allowed": false,
+						"displayed": false,
+						"initLayoutData": {
+							"camera": {
+								"position": {
+									"x": 0,
+									"y": 0
+								},
+								"zoom": 1
+							},
+							"history": {
+								"2": {
+									"position": {
+										"x": 0,
+										"y": 0
+									},
+									"zoom": 1
+								},
+								"36": {
+									"position": {
+										"x": 0,
+										"y": 0
+									},
+									"zoom": 1
+								},
+								"146": {
+									"position": {
+										"x": -50,
+										"y": -250
+									},
+									"zoom": 1
+								},
+								"149": {
+									"position": {
+										"x": -300,
+										"y": 50
+									},
+									"zoom": 1
+								},
+								"208": {
+									"position": {
+										"x": 200,
+										"y": -100
+									},
+									"zoom": 1
+								},
+								"211": {
+									"position": {
+										"x": 0,
+										"y": 0
+									},
+									"zoom": 1
+								},
+								"273": {
+									"position": {
+										"x": 0,
+										"y": 0
+									},
+									"zoom": 1
+								},
+								"335": {
+									"position": {
+										"x": -200,
+										"y": -300
+									},
+									"zoom": 1
+								},
+								"397": {
+									"position": {
+										"x": -200,
+										"y": -300
+									},
+									"zoom": 1
+								},
+								"459": {
+									"position": {
+										"x": 0,
+										"y": 0
+									},
+									"zoom": 1
+								},
+								"502": {
+									"position": {
+										"x": 0,
+										"y": 0
+									},
+									"zoom": 1
+								},
+								"583": {
+									"position": {
+										"x": 0,
+										"y": 0
+									},
+									"zoom": 1
+								},
+								"707": {
+									"position": {
+										"x": 0,
+										"y": 0
+									},
+									"zoom": 1
+								},
+								"710": {
+									"position": {
+										"x": 0,
+										"y": 0
+									},
+									"zoom": 1
+								},
+								"794": {
+									"position": {
+										"x": 0,
+										"y": 0
+									},
+									"zoom": 1
+								},
+								"797": {
+									"position": {
+										"x": 0,
+										"y": 0
+									},
+									"zoom": 1
+								},
+								"889": {
+									"position": {
+										"x": 0,
+										"y": 0
+									},
+									"zoom": 1
+								},
+								"940": {
+									"position": {
+										"x": -50,
+										"y": 50
+									},
+									"zoom": 1
+								},
+								"1334": {
+									"position": {
+										"x": 0,
+										"y": 0
+									},
+									"zoom": 1
+								},
+								"1337": {
+									"position": {
+										"x": 0,
+										"y": 0
+									},
+									"zoom": 1
+								},
+								"1338": {
+									"position": {
+										"x": 0,
+										"y": 0
+									},
+									"zoom": 1
+								},
+								"1520": {
+									"position": {
+										"x": 0,
+										"y": 0
+									},
+									"zoom": 1
+								},
+								"1549": {
+									"position": {
+										"x": -25,
+										"y": -175
+									},
+									"zoom": 1
+								},
+								"1611": {
+									"position": {
+										"x": 0,
+										"y": 0
+									},
+									"zoom": 1
+								},
+								"1614": {
+									"position": {
+										"x": 750,
+										"y": 175
+									},
+									"zoom": 1
+								},
+								"1967": {
+									"position": {
+										"x": -25,
+										"y": -175
+									},
+									"zoom": 1
+								},
+								"2029": {
+									"position": {
+										"x": 0,
+										"y": 0
+									},
+									"zoom": 1
+								},
+								"2032": {
+									"position": {
+										"x": 750,
+										"y": 175
+									},
+									"zoom": 1
+								},
+								"2372": {
+									"position": {
+										"x": 0,
+										"y": 0
+									},
+									"zoom": 1
+								},
+								"2473": {
+									"position": {
+										"x": 0,
+										"y": 0
+									},
+									"zoom": 1
+								},
+								"2476": {
+									"position": {
+										"x": 0,
+										"y": 0
+									},
+									"zoom": 1
+								}
+							},
+							"paramsDisplayed": false,
+							"linkIndex": 1
+						}
+					}
+				}
+			},
+			"split_panel1": {
+				"panelTypes": ["params"],
+				"currentPanelIndex": 0,
+				"panel_data": {
+					"active_folder": 589,
+					"linkIndex": 1
+				}
+			},
+			"split_mode": "vertical"
+		},
+		"split_panel1": {
+			"panelTypes": ["network", "params", "viewer"],
+			"currentPanelIndex": 0,
+			"panel_data": {
+				"camera": {
+					"position": {
+						"x": 556.4662664073835,
+						"y": -150.74614739683375
+					},
+					"zoom": 0.5588931300883224
+				},
+				"history": {
+					"2": {
+						"position": {
+							"x": 556.4662664073835,
+							"y": -150.74614739683375
+						},
+						"zoom": 0.5588931300883224
+					},
+					"36": {
+						"position": {
+							"x": -1.0272855344026004,
+							"y": 4.181377784065575
+						},
+						"zoom": 0.1
+					},
+					"146": {
+						"position": {
+							"x": -50,
+							"y": -250
+						},
+						"zoom": 0.7907998915405284
+					},
+					"149": {
+						"position": {
+							"x": -300,
+							"y": 50
+						},
+						"zoom": 0.2233452468170172
+					},
+					"208": {
+						"position": {
+							"x": 18.43478601466535,
+							"y": -150.8695411004254
+						},
+						"zoom": 1.0222221069335933
+					},
+					"211": {
+						"position": {
+							"x": 0,
+							"y": 0
+						},
+						"zoom": 0.46695942795576795
+					},
+					"273": {
+						"position": {
+							"x": -60.36271431380274,
+							"y": -430.98217457071155
+						},
+						"zoom": 0.6753923335345509
+					},
+					"335": {
+						"position": {
+							"x": -246.38817047301012,
+							"y": -288.7163386157148
+						},
+						"zoom": 0.638093188071721
+					},
+					"397": {
+						"position": {
+							"x": -266.4480129339616,
+							"y": -248.596868911752
+						},
+						"zoom": 0.638093188071721
+					},
+					"459": {
+						"position": {
+							"x": 0,
+							"y": 0
+						},
+						"zoom": 0.638093188071721
+					},
+					"502": {
+						"position": {
+							"x": 0,
+							"y": 0
+						},
+						"zoom": 0.8752992977664198
+					},
+					"583": {
+						"position": {
+							"x": -127.87899088641024,
+							"y": -12.85484342587597
+						},
+						"zoom": 0.6753923335345509
+					},
+					"707": {
+						"position": {
+							"x": 0,
+							"y": 0
+						},
+						"zoom": 0.6753923335345509
+					},
+					"710": {
+						"position": {
+							"x": -120.81862872043263,
+							"y": -111.34270922722024
+						},
+						"zoom": 0.6753923335345509
+					},
+					"794": {
+						"position": {
+							"x": 0,
+							"y": 0
+						},
+						"zoom": 0.7089924311908007
+					},
+					"797": {
+						"position": {
+							"x": 0,
+							"y": 0
+						},
+						"zoom": 0.7748409780000003
+					},
+					"889": {
+						"position": {
+							"x": 0,
+							"y": 0
+						},
+						"zoom": 0.3207841287132068
+					},
+					"940": {
+						"position": {
+							"x": -180.8860365897082,
+							"y": -137.7048699666053
+						},
+						"zoom": 0.7884718176269523
+					},
+					"1334": {
+						"position": {
+							"x": 0,
+							"y": 0
+						},
+						"zoom": 0.46695942795576795
+					},
+					"1337": {
+						"position": {
+							"x": 0,
+							"y": 0
+						},
+						"zoom": 1.0847735137730192
+					},
+					"1338": {
+						"position": {
+							"x": 0,
+							"y": 0
+						},
+						"zoom": 0.5037544182844412
+					},
+					"1520": {
+						"position": {
+							"x": 0,
+							"y": 0
+						},
+						"zoom": 0.7089924311908007
+					},
+					"1549": {
+						"position": {
+							"x": -25,
+							"y": -175
+						},
+						"zoom": 0.638093188071721
+					},
+					"1611": {
+						"position": {
+							"x": 0,
+							"y": 0
+						},
+						"zoom": 0.638093188071721
+					},
+					"1614": {
+						"position": {
+							"x": -17.808933200463116,
+							"y": -196.47904301244623
+						},
+						"zoom": 1.1008434480028388
+					},
+					"1967": {
+						"position": {
+							"x": -25,
+							"y": -175
+						},
+						"zoom": 0.638093188071721
+					},
+					"2029": {
+						"position": {
+							"x": 0,
+							"y": 0
+						},
+						"zoom": 0.638093188071721
+					},
+					"2032": {
+						"position": {
+							"x": -205.36511877308726,
+							"y": 21.55237716177237
+						},
+						"zoom": 0.638093188071721
+					},
+					"2372": {
+						"position": {
+							"x": 0,
+							"y": 0
+						},
+						"zoom": 0.638093188071721
+					},
+					"2473": {
+						"position": {
+							"x": 0,
+							"y": 0
+						},
+						"zoom": 0.638093188071721
+					},
+					"2476": {
+						"position": {
+							"x": 0,
+							"y": 0
+						},
+						"zoom": 0.8752992977664212
+					}
+				},
+				"paramsDisplayed": true,
+				"linkIndex": 1
+			}
+		},
+		"split_mode": "horizontal"
+	},
+	"currentNodes": ["/", "/", "/", "/", "/", "/", "/", "/"],
+	"navigationHistory": {
+		"nodePaths": {
+			"1": [
+				"/QuadraC_GrassTypeThree",
+				"/",
+				"/QuadraC_GrassTypeOne",
+				"/",
+				"/QuadraC_GrassTypeTwo",
+				"/",
+				"/QuadraC_GrassTypeThree",
+				"/",
+				"/QuadraC_GrassTypeThree",
+				"/",
+				"/QuadraC_GrassTypeThree",
+				"/",
+				"/QuadraC_GrassTypeThree",
+				"/",
+				"/QuadraC_GrassTypeThree",
+				"/",
+				"/QuadraC_GrassTypeTwo",
+				"/",
+				"/QuadraC_GrassTypeOne",
+				"/"
+			],
+			"2": ["/"],
+			"3": ["/"],
+			"4": ["/"],
+			"5": ["/"],
+			"6": ["/"],
+			"7": ["/"],
+			"8": ["/"]
+		},
+		"index": {
+			"1": 19,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0
+		}
+	},
+	"fullscreenPanelId": null,
+	"saveOptions": {
+		"createExport": false,
+		"checkRemoteAssetsUse": true,
+		"minimizeFilesCount": false,
+		"compressJs": true,
+		"createZip": false,
+		"runPostExportCommand": false
+	},
+	"paramsModal": []
+}

@@ -1,0 +1,151 @@
+{
+	"type": "geo",
+	"nodes": {
+		"color1": {
+			"type": "color"
+		},
+		"color2": {
+			"type": "color"
+		},
+		"fileFBX1": {
+			"type": "fileFBX",
+			"params": {
+				"url": "/polygonjs/models/FanceModel01.fbx?timestamp=1695667744610"
+			}
+		},
+		"hierarchy1": {
+			"type": "hierarchy",
+			"params": {
+				"mode": 1
+			},
+			"inputs": ["fileFBX1"]
+		},
+		"instance1": {
+			"type": "instance",
+			"params": {
+				"material": "../MAT/meshLambertBuilder_INSTANCES"
+			},
+			"inputs": ["transform1", "scatter1"],
+			"flags": {
+				"display": true
+			}
+		},
+		"plane1": {
+			"type": "plane"
+		},
+		"scatter1": {
+			"type": "scatter",
+			"params": {
+				"pointsCount": 1
+			},
+			"inputs": ["plane1"]
+		},
+		"transform1": {
+			"type": "transform",
+			"inputs": ["hierarchy1"]
+		}
+	},
+	"params": {
+		"t": [690, 0, 8],
+		"r": [0, 90, 0],
+		"scale": 43.5,
+		"CADLinearTolerance": {
+			"overriden_options": {
+				"callback": "{}"
+			}
+		},
+		"CADAngularTolerance": {
+			"overriden_options": {
+				"callback": "{}"
+			}
+		},
+		"CADCurveAbscissa": {
+			"overriden_options": {
+				"callback": "{}"
+			}
+		},
+		"CADCurveTolerance": {
+			"overriden_options": {
+				"callback": "{}"
+			}
+		},
+		"CADDisplayEdges": {
+			"overriden_options": {
+				"callback": "{}"
+			}
+		},
+		"CADEdgesColor": {
+			"overriden_options": {
+				"callback": "{}"
+			}
+		},
+		"CADDisplayMeshes": {
+			"overriden_options": {
+				"callback": "{}"
+			}
+		},
+		"CADMeshesColor": {
+			"overriden_options": {
+				"callback": "{}"
+			}
+		},
+		"CADWireframe": {
+			"overriden_options": {
+				"callback": "{}"
+			}
+		},
+		"CSGFacetAngle": {
+			"overriden_options": {
+				"callback": "{}"
+			}
+		},
+		"CSGLinesColor": {
+			"overriden_options": {
+				"callback": "{}"
+			}
+		},
+		"CSGMeshesColor": {
+			"overriden_options": {
+				"callback": "{}"
+			}
+		},
+		"CSGWireframe": {
+			"overriden_options": {
+				"callback": "{}"
+			}
+		},
+		"TetScale": {
+			"overriden_options": {
+				"callback": "{}"
+			}
+		},
+		"TetDisplayLines": {
+			"overriden_options": {
+				"callback": "{}"
+			}
+		},
+		"TetDisplaySharedFaces": {
+			"overriden_options": {
+				"callback": "{}"
+			}
+		},
+		"TetDisplayPoints": {
+			"overriden_options": {
+				"callback": "{}"
+			}
+		},
+		"TetDisplayCenter": {
+			"overriden_options": {
+				"callback": "{}"
+			}
+		},
+		"TetDisplaySphere": {
+			"overriden_options": {
+				"callback": "{}"
+			}
+		}
+	},
+	"flags": {
+		"display": true
+	}
+}

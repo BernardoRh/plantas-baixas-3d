@@ -1,0 +1,351 @@
+{
+	"nodes": {
+		"perspectiveCamera1": {
+			"pos": [-800, -300]
+		},
+		"COP": {
+			"pos": [-800, -200],
+			"nodes": {
+				"envMap": {
+					"pos": [50, 250]
+				},
+				"imageEnv": {
+					"pos": [50, 100]
+				},
+				"image1": {
+					"pos": [-200, 100]
+				}
+			}
+		},
+		"lights": {
+			"pos": [-800, -400],
+			"selection": ["hemisphereLight1"],
+			"nodes": {
+				"hemisphereLight1": {
+					"pos": [50, -50]
+				},
+				"merge1": {
+					"pos": [100, 300]
+				},
+				"polarTransform1": {
+					"pos": [300, 150]
+				},
+				"spotLight1": {
+					"pos": [300, -50]
+				}
+			}
+		},
+		"cameras": {
+			"pos": [-550, -300],
+			"nodes": {
+				"perspectiveCamera1": {
+					"pos": [0, -50]
+				},
+				"cameraControls1": {
+					"pos": [0, 150],
+					"nodes": {
+						"cameraOrbitControls1": {
+							"pos": [0, 0]
+						}
+					}
+				}
+			}
+		},
+		"geo2": {
+			"pos": [-200, -300],
+			"nodes": {
+				"box1": {
+					"pos": [-50, 50]
+				},
+				"instance1": {
+					"pos": [0, 250]
+				},
+				"MAT": {
+					"pos": [-150, 250],
+					"selection": ["meshLambertBuilder_INSTANCES"],
+					"nodes": {
+						"meshLambertBuilder_INSTANCES": {
+							"pos": [0, 0],
+							"selection": ["constant1"],
+							"nodes": {
+								"instanceTransform1": {
+									"pos": [0, 0]
+								},
+								"output1": {
+									"pos": [200, 0]
+								},
+								"globals1": {
+									"pos": [-200, 0]
+								},
+								"constant1": {
+									"pos": [50, 200]
+								}
+							}
+						}
+					}
+				}
+			}
+		},
+		"QuadraC_GrassTypeOne": {
+			"pos": [-200, -100],
+			"nodes": {
+				"fileFBX1": {
+					"pos": [-150, -150]
+				},
+				"hierarchy1": {
+					"pos": [-150, 0]
+				},
+				"transform1": {
+					"pos": [-150, 150]
+				},
+				"instance1": {
+					"pos": [50, 500]
+				},
+				"transform2": {
+					"pos": [-150, 300]
+				},
+				"scatter1": {
+					"pos": [200, 300]
+				},
+				"plane1": {
+					"pos": [200, 150]
+				},
+				"MAT": {
+					"pos": [-150, 500],
+					"selection": ["meshLambertBuilder_INSTANCES"],
+					"nodes": {
+						"meshLambertBuilder_INSTANCES": {
+							"pos": [0, 0],
+							"nodes": {
+								"instanceTransform1": {
+									"pos": [0, 0]
+								},
+								"output1": {
+									"pos": [200, 0]
+								},
+								"globals1": {
+									"pos": [-200, 0]
+								},
+								"constant1": {
+									"pos": [-1700, -500]
+								},
+								"constant2": {
+									"pos": [150, 150]
+								}
+							}
+						}
+					}
+				}
+			}
+		},
+		"QuadraC_GrassTypeTwo": {
+			"pos": [-200, 0],
+			"nodes": {
+				"fileFBX1": {
+					"pos": [-150, -150]
+				},
+				"hierarchy1": {
+					"pos": [-150, 0]
+				},
+				"instance1": {
+					"pos": [50, 500]
+				},
+				"plane1": {
+					"pos": [200, 150]
+				},
+				"scatter1": {
+					"pos": [200, 300]
+				},
+				"transform1": {
+					"pos": [-150, 150]
+				},
+				"transform2": {
+					"pos": [-150, 300]
+				},
+				"MAT": {
+					"pos": [-150, 500],
+					"selection": ["meshLambertBuilder_INSTANCES"],
+					"nodes": {
+						"meshLambertBuilder_INSTANCES": {
+							"pos": [0, 0],
+							"nodes": {
+								"constant1": {
+									"pos": [-1700, -500]
+								},
+								"constant2": {
+									"pos": [150, 150]
+								},
+								"globals1": {
+									"pos": [-200, 0]
+								},
+								"instanceTransform1": {
+									"pos": [0, 0]
+								},
+								"output1": {
+									"pos": [200, 0]
+								}
+							}
+						}
+					}
+				}
+			}
+		},
+		"QuadraC_GrassTypeThree": {
+			"pos": [-200, 100],
+			"selection": ["plane1"],
+			"nodes": {
+				"fileFBX1": {
+					"pos": [-150, -150]
+				},
+				"hierarchy1": {
+					"pos": [-150, 0]
+				},
+				"instance1": {
+					"pos": [50, 500]
+				},
+				"plane1": {
+					"pos": [200, 150]
+				},
+				"scatter1": {
+					"pos": [200, 300]
+				},
+				"transform1": {
+					"pos": [-150, 150]
+				},
+				"transform2": {
+					"pos": [-150, 300]
+				},
+				"MAT": {
+					"pos": [-150, 500],
+					"selection": ["meshLambertBuilder_INSTANCES"],
+					"nodes": {
+						"meshLambertBuilder_INSTANCES": {
+							"pos": [0, 0],
+							"nodes": {
+								"constant1": {
+									"pos": [-1700, -500]
+								},
+								"constant2": {
+									"pos": [150, 150]
+								},
+								"globals1": {
+									"pos": [-200, 0]
+								},
+								"instanceTransform1": {
+									"pos": [0, 0]
+								},
+								"output1": {
+									"pos": [200, 0]
+								}
+							}
+						}
+					}
+				}
+			}
+		},
+		"QuadraC_Fence": {
+			"pos": [-200, 200],
+			"nodes": {
+				"fileFBX1": {
+					"pos": [-150, -100]
+				},
+				"instance1": {
+					"pos": [0, 300]
+				},
+				"color1": {
+					"pos": [-1900, -600]
+				},
+				"color2": {
+					"pos": [1500, 150]
+				},
+				"hierarchy1": {
+					"pos": [-150, 0]
+				},
+				"transform1": {
+					"pos": [-150, 150]
+				},
+				"scatter1": {
+					"pos": [100, 150]
+				},
+				"plane1": {
+					"pos": [100, 50]
+				},
+				"MAT": {
+					"pos": [-300, 150],
+					"selection": ["meshLambertBuilder_INSTANCES"],
+					"nodes": {
+						"meshLambertBuilder_INSTANCES": {
+							"pos": [0, 0],
+							"nodes": {
+								"instanceTransform1": {
+									"pos": [0, 0]
+								},
+								"output1": {
+									"pos": [200, 0]
+								},
+								"globals1": {
+									"pos": [-200, 0]
+								},
+								"constant1": {
+									"pos": [100, 200]
+								}
+							}
+						}
+					}
+				}
+			}
+		},
+		"QuadraC_Fence1": {
+			"pos": [-200, 300],
+			"nodes": {
+				"MAT": {
+					"pos": [-300, 150],
+					"selection": ["meshLambertBuilder_INSTANCES"],
+					"nodes": {
+						"meshLambertBuilder_INSTANCES": {
+							"pos": [0, 0],
+							"nodes": {
+								"constant1": {
+									"pos": [100, 200]
+								},
+								"globals1": {
+									"pos": [-200, 0]
+								},
+								"instanceTransform1": {
+									"pos": [0, 0]
+								},
+								"output1": {
+									"pos": [200, 0]
+								}
+							}
+						}
+					}
+				},
+				"color1": {
+					"pos": [-1900, -600]
+				},
+				"color2": {
+					"pos": [1500, 150]
+				},
+				"fileFBX1": {
+					"pos": [-150, -100]
+				},
+				"hierarchy1": {
+					"pos": [-150, 0]
+				},
+				"instance1": {
+					"pos": [0, 300]
+				},
+				"plane1": {
+					"pos": [100, 50]
+				},
+				"scatter1": {
+					"pos": [100, 150]
+				},
+				"transform1": {
+					"pos": [-150, 150]
+				}
+			}
+		}
+	}
+}
