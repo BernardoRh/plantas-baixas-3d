@@ -1,0 +1,91 @@
+{
+	"properties": "1695673718357",
+	"root": "1695673718357",
+	"nodes": {
+		"COP": "1695673718357",
+		"lights": "1695673718357",
+		"cameras": "1695673718357",
+		"cameras/cameraControls1": "1695674075879",
+		"geo2": "1695673718357",
+		"geo2/MAT": "1695673718357",
+		"geo2/MAT/meshLambertBuilder_INSTANCES": "1695673718357",
+		"QuadraC_GrassTypeOne": "1695673718357",
+		"QuadraC_GrassTypeOne/MAT": "1695673718357",
+		"QuadraC_GrassTypeOne/MAT/meshLambertBuilder_INSTANCES": "1695673718357",
+		"QuadraC_GrassTypeTwo": "1695673718357",
+		"QuadraC_GrassTypeTwo/MAT": "1695673718357",
+		"QuadraC_GrassTypeTwo/MAT/meshLambertBuilder_INSTANCES": "1695673718357",
+		"QuadraC_GrassTypeThree": "1695673718357",
+		"QuadraC_GrassTypeThree/MAT": "1695673718357",
+		"QuadraC_GrassTypeThree/MAT/meshLambertBuilder_INSTANCES": "1695673718357",
+		"QuadraC_Fence": "1695673718357",
+		"QuadraC_Fence/MAT": "1695673718357",
+		"QuadraC_Fence/MAT/meshLambertBuilder_INSTANCES": "1695673718357",
+		"QuadraC_Fence1": "1695673718357",
+		"QuadraC_Fence1/MAT": "1695673718357",
+		"QuadraC_Fence1/MAT/meshLambertBuilder_INSTANCES": "1695673718357"
+	},
+	"shaders": {
+		"/geo2/MAT/meshLambertBuilder_INSTANCES": {
+			"vertex": "1695674075879",
+			"fragment": "1695674075879",
+			"customDepthMaterial.vertex": "1695674075879",
+			"customDepthMaterial.fragment": "1695674075879",
+			"customDistanceMaterial.vertex": "1695674075879",
+			"customDistanceMaterial.fragment": "1695674075879",
+			"customDepthDOFMaterial.vertex": "1695674075879",
+			"customDepthDOFMaterial.fragment": "1695674075879"
+		},
+		"/QuadraC_GrassTypeOne/MAT/meshLambertBuilder_INSTANCES": {
+			"vertex": "1695674075879",
+			"fragment": "1695674075879",
+			"customDepthMaterial.vertex": "1695674075879",
+			"customDepthMaterial.fragment": "1695674075879",
+			"customDistanceMaterial.vertex": "1695674075879",
+			"customDistanceMaterial.fragment": "1695674075879",
+			"customDepthDOFMaterial.vertex": "1695674075879",
+			"customDepthDOFMaterial.fragment": "1695674075879"
+		},
+		"/QuadraC_GrassTypeTwo/MAT/meshLambertBuilder_INSTANCES": {
+			"vertex": "1695674075879",
+			"fragment": "1695674075879",
+			"customDepthMaterial.vertex": "1695674075879",
+			"customDepthMaterial.fragment": "1695674075879",
+			"customDistanceMaterial.vertex": "1695674075879",
+			"customDistanceMaterial.fragment": "1695674075879",
+			"customDepthDOFMaterial.vertex": "1695674075879",
+			"customDepthDOFMaterial.fragment": "1695674075879"
+		},
+		"/QuadraC_GrassTypeThree/MAT/meshLambertBuilder_INSTANCES": {
+			"vertex": "1695674075879",
+			"fragment": "1695674075879",
+			"customDepthMaterial.vertex": "1695674075879",
+			"customDepthMaterial.fragment": "1695674075879",
+			"customDistanceMaterial.vertex": "1695674075879",
+			"customDistanceMaterial.fragment": "1695674075879",
+			"customDepthDOFMaterial.vertex": "1695674075879",
+			"customDepthDOFMaterial.fragment": "1695674075879"
+		},
+		"/QuadraC_Fence/MAT/meshLambertBuilder_INSTANCES": {
+			"vertex": "1695674075879",
+			"fragment": "1695674075879",
+			"customDepthMaterial.vertex": "1695674075879",
+			"customDepthMaterial.fragment": "1695674075879",
+			"customDistanceMaterial.vertex": "1695674075879",
+			"customDistanceMaterial.fragment": "1695674075879",
+			"customDepthDOFMaterial.vertex": "1695674075879",
+			"customDepthDOFMaterial.fragment": "1695674075879"
+		},
+		"/QuadraC_Fence1/MAT/meshLambertBuilder_INSTANCES": {
+			"vertex": "1695674075879",
+			"fragment": "1695674075879",
+			"customDepthMaterial.vertex": "1695674075879",
+			"customDepthMaterial.fragment": "1695674075879",
+			"customDistanceMaterial.vertex": "1695674075879",
+			"customDistanceMaterial.fragment": "1695674075879",
+			"customDepthDOFMaterial.vertex": "1695674075879",
+			"customDepthDOFMaterial.fragment": "1695674075879"
+		}
+	},
+	"jsFunctionBodies": {}
+}

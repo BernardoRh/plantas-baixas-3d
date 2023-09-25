@@ -1,0 +1,19 @@
+{
+	"type": "root",
+	"nodes": {
+		"perspectiveCamera1": {
+			"type": "perspectiveCamera",
+			"params": {
+				"t": [-7, 2, 0],
+				"controls": "../cameras/cameraControls1/cameraOrbitControls1",
+				"far": 1000
+			},
+			"flags": {
+				"display": true
+			}
+		}
+	},
+	"params": {
+		"mainCameraPath": "/perspectiveCamera1"
+	}
+}

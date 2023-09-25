@@ -1,0 +1,124 @@
+{
+	"type": "geo",
+	"nodes": {
+		"box1": {
+			"type": "box"
+		},
+		"instance1": {
+			"type": "instance",
+			"params": {
+				"material": "../MAT/meshLambertBuilder_INSTANCES"
+			},
+			"inputs": ["box1", "box1"],
+			"flags": {
+				"display": true
+			}
+		}
+	},
+	"params": {
+		"t": [0, 0, 32],
+		"s": [1000, 0.1, 170],
+		"CADLinearTolerance": {
+			"overriden_options": {
+				"callback": "{}"
+			}
+		},
+		"CADAngularTolerance": {
+			"overriden_options": {
+				"callback": "{}"
+			}
+		},
+		"CADCurveAbscissa": {
+			"overriden_options": {
+				"callback": "{}"
+			}
+		},
+		"CADCurveTolerance": {
+			"overriden_options": {
+				"callback": "{}"
+			}
+		},
+		"CADDisplayEdges": {
+			"overriden_options": {
+				"callback": "{}"
+			}
+		},
+		"CADEdgesColor": {
+			"overriden_options": {
+				"conversion": "no conversion",
+				"callback": "{}"
+			}
+		},
+		"CADDisplayMeshes": {
+			"raw_input": 0,
+			"overriden_options": {
+				"callback": "{}"
+			}
+		},
+		"CADMeshesColor": {
+			"raw_input": [0.48514994004665124, 0.009134058699157796, 0.009134058699157796],
+			"overriden_options": {
+				"callback": "{}"
+			}
+		},
+		"CADWireframe": {
+			"overriden_options": {
+				"callback": "{}"
+			}
+		},
+		"CSGFacetAngle": {
+			"overriden_options": {
+				"callback": "{}"
+			}
+		},
+		"CSGLinesColor": {
+			"overriden_options": {
+				"conversion": "no conversion",
+				"callback": "{}"
+			}
+		},
+		"CSGMeshesColor": {
+			"overriden_options": {
+				"callback": "{}"
+			}
+		},
+		"CSGWireframe": {
+			"overriden_options": {
+				"callback": "{}"
+			}
+		},
+		"TetScale": {
+			"overriden_options": {
+				"callback": "{}"
+			}
+		},
+		"TetDisplayLines": {
+			"overriden_options": {
+				"callback": "{}"
+			}
+		},
+		"TetDisplaySharedFaces": {
+			"overriden_options": {
+				"callback": "{}"
+			}
+		},
+		"TetDisplayPoints": {
+			"overriden_options": {
+				"callback": "{}"
+			}
+		},
+		"TetDisplayCenter": {
+			"overriden_options": {
+				"callback": "{}"
+			}
+		},
+		"TetDisplaySphere": {
+			"overriden_options": {
+				"callback": "{}"
+			}
+		}
+	},
+	"flags": {
+		"display": true
+	}
+}
