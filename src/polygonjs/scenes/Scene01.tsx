@@ -14,6 +14,7 @@ export const Scene01 = () => {
 			loadFunction={loadScene_scene_01}
 			onSceneReady={onSceneReady_01}
 			render={true}
+			baseUrl="./"
 		/>
 	);
 };
