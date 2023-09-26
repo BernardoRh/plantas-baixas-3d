@@ -298,29 +298,6 @@
 		"QuadraC_Fence1": {
 			"pos": [-200, 300],
 			"nodes": {
-				"MAT": {
-					"pos": [-300, 150],
-					"selection": ["meshLambertBuilder_INSTANCES"],
-					"nodes": {
-						"meshLambertBuilder_INSTANCES": {
-							"pos": [0, 0],
-							"nodes": {
-								"constant1": {
-									"pos": [100, 200]
-								},
-								"globals1": {
-									"pos": [-200, 0]
-								},
-								"instanceTransform1": {
-									"pos": [0, 0]
-								},
-								"output1": {
-									"pos": [200, 0]
-								}
-							}
-						}
-					}
-				},
 				"color1": {
 					"pos": [-1900, -600]
 				},
@@ -344,6 +321,29 @@
 				},
 				"transform1": {
 					"pos": [-150, 150]
+				},
+				"MAT": {
+					"pos": [-300, 150],
+					"selection": ["meshLambertBuilder_INSTANCES"],
+					"nodes": {
+						"meshLambertBuilder_INSTANCES": {
+							"pos": [0, 0],
+							"nodes": {
+								"constant1": {
+									"pos": [100, 200]
+								},
+								"globals1": {
+									"pos": [-200, 0]
+								},
+								"instanceTransform1": {
+									"pos": [0, 0]
+								},
+								"output1": {
+									"pos": [200, 0]
+								}
+							}
+						}
+					}
 				}
 			}
 		}
