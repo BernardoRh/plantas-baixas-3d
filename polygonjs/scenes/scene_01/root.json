@@ -4,7 +4,8 @@
 		"perspectiveCamera1": {
 			"type": "perspectiveCamera",
 			"params": {
-				"t": [-7, 2, 0],
+				"t": [10, 0, -250],
+				"r": [158.45718032514603, 0, 0],
 				"controls": "../cameras/cameraControls1/cameraOrbitControls1",
 				"far": 1000
 			},
