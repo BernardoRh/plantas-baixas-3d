@@ -7,7 +7,7 @@
 				"panelTypes": ["viewer"],
 				"currentPanelIndex": 0,
 				"panel_data": {
-					"camera": "/perspectiveCamera1",
+					"camera": "/cameras/cameras:sopGroup/perspectiveCamera1",
 					"isViewerInitLayoutData": true,
 					"linkIndex": 1,
 					"overlayedNetwork": {
