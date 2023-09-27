@@ -1,12 +1,12 @@
 import { SceneDataManifestImporter } from "@polygonjs/polygonjs/dist/src/engine/io/manifest/import/SceneData";
 const manifest = {
   properties: "1695673718357",
-  root: "1695778151108",
+  root: "1695778927033",
   nodes: {
     COP: "1695673718357",
     lights: "1695673718357",
     cameras: "1695673718357",
-    "cameras/cameraControls1": "1695778151108",
+    "cameras/cameraControls1": "1695778927033",
     geo2: "1695673718357",
     "geo2/MAT": "1695673718357",
     "geo2/MAT/meshLambertBuilder_INSTANCES": "1695673718357",
